@@ -1,0 +1,10 @@
+# Dossiers
+build/
+venv/
+utility.egg-info/
+.idea/
+.vscode/
+*/__pycache__/
+
+# Fichiers
+*.pickle
